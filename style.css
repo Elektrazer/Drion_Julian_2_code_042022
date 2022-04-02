@@ -1043,5 +1043,12 @@ h4 {
     }
 }
 
-/* Correction ou ajout /*
-
+/* Correction ou ajout */
+.citation1 {
+    width: 90%;
+    font-size: 20px;
+}
+.citation1 p {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
