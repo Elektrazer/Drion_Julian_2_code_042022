@@ -658,7 +658,7 @@ h4 {
   background-color: #f3976c;
 }
 .tc-white {
-  color: #f3976c !important;
+  color: #000 !important;
 }
 .btn-atomic-tangerine {
   background: #f3976c;
@@ -906,4 +906,16 @@ h4 {
   font-size: 20px;
   margin-bottom: 0;
   line-height: 2rem;
+}
+
+.citation2 {
+  width: 90%;
+  font-size: 23px;
+  margin: 0 auto;
+}
+.citation3 {
+  width: 90%;
+  font-size: 20px;
+  margin: 0 auto;
+  font-weight: 500;
 }
